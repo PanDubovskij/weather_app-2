@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="today_blank">Today</string>
+    <string name="forecast_blank">forecast</string>
+    <string name="today">Today</string>
+    <string name="forecast">Forecast</string>
+    <string name="location">London</string>
+    <string name="current_weather">22°C | Sunny</string>
+    <string name="share_button">Share</string>
+</resources>
