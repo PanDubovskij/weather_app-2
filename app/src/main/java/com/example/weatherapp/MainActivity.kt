@@ -44,6 +44,8 @@ class MainActivity : AppCompatActivity() {
         fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this)
 
         getLastLocation()
+
+
     }
 
     private fun getLastLocation() {
